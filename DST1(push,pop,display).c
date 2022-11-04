@@ -1,4 +1,5 @@
 #include<stdio.h>
+#include<stdio.h>
 #define Stack_size 5
 int st[5], top = -1, item;
 
